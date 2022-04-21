@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Solidity & Web3**
 
-- 👨‍💻 All of my projects are available on [my personal portfolio](https://www.linkedin.com/in/devi-amaolo-773135161/)
+- 👨‍💻 All of my projects are available on [my personal portfolio](https://portfolio-web-cyan.vercel.app/)
 - 💬 Ask me about **React, HTML, CSS & Web design**.
 
 - 📫 How to reach me:
