@@ -2,7 +2,6 @@
 <h3 align="center">A frontend developer and a computer science student from Argentina.</h3>
 
 - 🌱 I’m currently learning **TypeScript**
-- 🌱 I'm a **Web3** and **Solidity** enthusiast.
 
 - 👨‍💻 All of my projects are available on [my personal portfolio](https://portfolio-web-cyan.vercel.app/)
 - 💬 Ask me about **React, HTML, CSS & Web design**.
