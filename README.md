@@ -5,12 +5,12 @@
 
 - 👨‍💻 All of my projects are available on [my personal portfolio](https://portfolio-eldev1.vercel.app/)
 - 💬 Ask me about **React, HTML, CSS & Web design**.
+- 📒 I'm a web3 and solidity enthusiast.
 
 - 📫 How to reach me:
   - 📧 Send me an email: deviamaolo@gmail.com
   - 🌐 [Contact me on LinkedIn](https://www.linkedin.com/in/devi-amaolo-773135161/)
   
-- 📒 I am a web3 and solidity enthusiast.
 <hr>
 
 **Tech stack:**
