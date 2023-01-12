@@ -31,5 +31,5 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFFF?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-FFFFFF?style=flat&logo=firebase)
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?ElDev1=adityaseth777&&show_icons=true&theme=dark" alt="ElDev1" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ElDev1&show_icons=true&locale=en&theme=radical" alt="ElDev1" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ElDev1&&show_icons=true&theme=dark" alt="ElDev1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElDev1&show_icons=true&locale=en&theme=radical" alt="ElDev1" /></p>
