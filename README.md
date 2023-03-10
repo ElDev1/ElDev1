@@ -33,3 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ElDev1&&show_icons=true&theme=dark" alt="ElDev1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElDev1&show_icons=true&locale=en&theme=radical" alt="ElDev1" /></p>
+
+![](https://komarev.com/ghpvc/?username=ElDev1&style=for-the-badge&color=e56b6f)
+
