@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Devi</h1>
-<h3 align="center">A frontend developer and a computer science student from Argentina.</h3>
+<h3 align="center">A web developer and a computer science student from Argentina.</h3>
 
 - 🌱 I’m currently learning **Web development**
 
