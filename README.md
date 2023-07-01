@@ -1,11 +1,9 @@
 <h1 align="center">Hey, I'm Devi</h1>
 <h3 align="center">A web developer and a computer science student from Argentina.</h3>
 
-- 🌱 I’m currently learning **Web development**
-
+- 🌱 I’m currently learning **Typescript**
 - 👨‍💻 All of my projects are available on [my personal portfolio](https://portfolio-eldev1.vercel.app/)
-- 💬 Ask me about **React, HTML, CSS & Web design**.
-- 📒 I'm a web3 and solidity enthusiast.
+- 💬 Ask me about **React, HTML, CSS, Javascript & Web design**.
 
 - 📫 How to reach me:
   - 📧 Send me an email: deviamaolo@gmail.com
