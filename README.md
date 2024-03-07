@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Devi</h1>
-<h3 align="center">web developer & Data</h3>
+<h3 align="center">Web Developer & Data</h3>
 
 - 👨‍💻 All of my projects are available on [my personal portfolio](https://personal-portfolio-eldev1.vercel.app/)
 
